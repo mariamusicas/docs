@@ -7,8 +7,6 @@
 
 ### Em prosa (versus poesia)
 
-![](.gitbook/assets/prosa.png)
-
 > Maravilhas fez em mim.
 Minh’alma canta de gozo
 pois na minha pequenez
@@ -17,6 +15,8 @@ E o Santo e Poderoso
 espera hoje o meu sim.
 Minha alma canta de gozo,
 maravilhas fez em mim.
+
+![](.gitbook/assets/prosa.png)
 
 | Prosa (pontuação e minúsculas) | Poesia (sem pontuação e maiúsculas) |
 | - | - |
