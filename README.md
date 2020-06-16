@@ -37,7 +37,7 @@ https://github.com/mariamusicas/vim](https://github.com/mariamusicas/vim)
 {% endhint %}
 
 {% hint style="info" %}
-Visitar guia das letras e ortografia  
+Visitar guia das letras e ortografia:  
 [https://github.com/mariamusicas/docs/blob/master/letras.md](https://github.com/mariamusicas/docs/blob/master/letras.md)
 {% endhint %}
 
