@@ -27,7 +27,7 @@ Visitar Schoenstatt Music:
 [https://schoenstatt.link/en/music](https://schoenstatt.link/en/music)
 {% endhint %}
 
-#### Documentação
+### Documentação
 
 {% embed url="https://youtu.be/b0c4IOwtpnc" caption="Exemplo de como criar uma nova música para a base de dados." %}
 
@@ -41,7 +41,7 @@ Visitar guia das letras e ortografia
 [https://github.com/mariamusicas/docs/blob/master/letras.md](https://github.com/mariamusicas/docs/blob/master/letras.md)
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 Contacto:  
 mariamusicas[@](mailto:mariamusicas@padres-schoenstatt.pt)padres-schoenstatt.pt
 {% endhint %}
