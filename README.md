@@ -20,9 +20,16 @@ A nossa aposta consiste em consolidar **uma base de dados única** com muitas m�
 
 Estas músicas podem ser usadas de diferentes formas, segundo a necessidade e uso de cada comunidade, tanto em celebrações litúrgicas como na oração pessoal.
 
-{% embed url="https://youtu.be/b0c4IOwtpnc" caption="Exemplo de como criar uma nova música para a base de dados." %}
+A base de dados _oficial_ está guardada em **Schoenstatt Music.**
+
+{% hint style="info" %}
+Visitar Schoenstatt Music:  
+[https://schoenstatt.link/en/music](https://schoenstatt.link/en/music)
+{% endhint %}
 
 #### Documentação
+
+{% embed url="https://youtu.be/b0c4IOwtpnc" caption="Exemplo de como criar uma nova música para a base de dados." %}
 
 {% hint style="info" %}
 Visitar página técnica do Vim em Github:[  
@@ -32,13 +39,6 @@ https://github.com/mariamusicas/vim](https://github.com/mariamusicas/vim)
 {% hint style="info" %}
 Visitar guia das letras e ortografia  
 [https://github.com/mariamusicas/docs/blob/master/letras.md](https://github.com/mariamusicas/docs/blob/master/letras.md)
-{% endhint %}
-
-A base de dados _oficial_ está guardada em **Schoenstatt Music.**
-
-{% hint style="info" %}
-Visitar Schoenstatt Music:  
-[https://schoenstatt.link/en/music](https://schoenstatt.link/en/music)
 {% endhint %}
 
 {% hint style="info" %}
