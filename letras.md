@@ -5,9 +5,9 @@
 - Em prosa (versus poesia)
 - Uso de maiúsculas e minúsculas
 
-![](.gitbook/assets/prosa.png)
-
 ### Em prosa (versus poesia)
+
+![](.gitbook/assets/prosa.png)
 
 > Maravilhas fez em mim.
 Minh’alma canta de gozo
